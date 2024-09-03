@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio1e3</string>
+    <string name="price">Preço</string>
+    <string name="age">Idade</string>
+    <string name="calculate">Calcular</string>
+    <string name="discount">Quantidade de desconto %s%%.</string>
+    <string name="finalValue">O valor final é R$%s.</string>
+    <string name="errorPrice">Digite o valor do produto</string>
+    <string name="error_age">Digite sua idade</string>
+</resources>
